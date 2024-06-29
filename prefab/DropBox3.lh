@@ -1,0 +1,1 @@
+{"_$ver":1,"_$id":"5z147upk35","_$type":"Sprite","name":"levelTxt","width":53,"height":112,"anchorX":0.5,"anchorY":0.5,"scaleX":1.2,"scaleY":1.2,"texture":{"_$uuid":"../resources/Texture/note3.png","_$type":"Texture"},"_$comp":[{"_$type":"RigidBody","gravityScale":0,"group":-1},{"_$type":"BoxCollider","width":53,"height":112},{"_$type":"3L23NCFLSAieUApqTrVoCQ","index":3}]}
